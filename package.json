@@ -1,0 +1,24 @@
+{
+  "name": "facebook-ads-library-scraper",
+  "version": "1.0.0",
+  "description": "Scrape Meta/Facebook active ad campaigns, creative copy, video/image URLs, targeting reach, and spend history.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "facebook-ads",
+    "meta-ads",
+    "ad-intelligence",
+    "competitor-analysis",
+    "marketing-data",
+    "advertising",
+    "apify-actor"
+  ],
+  "author": "Crawlomatic (https://crawlomatic.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  }
+}
